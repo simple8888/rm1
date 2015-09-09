@@ -32,4 +32,4 @@
 {/section}</li>   
       </ul>
     </div>
-<div id="content"> /*内容开始*/
+<div id="content"> <!--内容开始-->
